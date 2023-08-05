@@ -1,0 +1,7 @@
+a = int(input ('enter 4number'))
+b = float(a // 10)
+c = float(a // 100)
+d = float(a // 1000)
+print (b)
+print (c)
+print (d)
