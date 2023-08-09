@@ -1,0 +1,6 @@
+v = int (input('ragham aashar :'))
+w = int (input('ragham yekan :'))
+x = int (input('ragham dahgan :'))
+y = int (input('ragham sadgan :'))
+z = int (input('ragham hezargan :'))
+print((v*0.1)+(w*1)+(x*10)+(y*100)(z*1000))
